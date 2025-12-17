@@ -8,17 +8,31 @@
   Flutter Developer • Mobile Engineer
 </p>
 
+<p align="center">
+  <a href="https://lukmanhadi20.vercel.app/" target="_blank">
+    🌐 Portfolio
+  </a>
+</p>
+
 ---
 
 ### About
 
-Mobile developer with experience in delivering clean, efficient, and user-focused Flutter applications.  
-Comfortable working with modern state management, scalable architecture, and backend integration.
+Flutter-focused mobile developer with experience in building clean, maintainable, and user-centric applications.  
+Comfortable working with modern state management, scalable architecture, and seamless backend integration.
+
+---
 
 ### Tech Stack
 
-- Flutter, Dart
-- Riverpod, GetX, BLoC
-- Go, Laravel
-- MySQL
-- Git, REST API
+- **Mobile**: Flutter, Dart  
+- **State Management**: Riverpod, GetX, BLoC  
+- **Backend**: Go, Laravel  
+- **Database**: MySQL  
+- **Tools**: Git, REST API
+
+---
+
+<p align="center">
+  <sub>Building products with clarity, performance, and purpose.</sub>
+</p>
